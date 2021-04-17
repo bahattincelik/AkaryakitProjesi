@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projelerim\Akaryakit_Projesi\Akaryakit_Projesi\bin\Debug\Akaryakit_Projesi.exe.config
+C:\Users\User\Desktop\Projelerim\Akaryakit_Projesi\Akaryakit_Projesi\bin\Debug\Akaryakit_Projesi.exe
+C:\Users\User\Desktop\Projelerim\Akaryakit_Projesi\Akaryakit_Projesi\bin\Debug\Akaryakit_Projesi.pdb
+C:\Users\User\Desktop\Projelerim\Akaryakit_Projesi\Akaryakit_Projesi\obj\Debug\Akaryakit_Projesi.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Projelerim\Akaryakit_Projesi\Akaryakit_Projesi\obj\Debug\Akaryakit_Projesi.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projelerim\Akaryakit_Projesi\Akaryakit_Projesi\obj\Debug\Akaryakit_Projesi.exe
+C:\Users\User\Desktop\Projelerim\Akaryakit_Projesi\Akaryakit_Projesi\obj\Debug\Akaryakit_Projesi.pdb
